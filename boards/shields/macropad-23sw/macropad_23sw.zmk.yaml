@@ -1,0 +1,8 @@
+file_format: "1"
+id: macropad_23sw
+name: Macropad 23
+type: shield
+url: https://github.com/Smartich0ke/macropad-23
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

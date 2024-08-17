@@ -1,0 +1,2 @@
+config MACROPAD_23SW
+    def_bool $(shields_list_contains,macropad_12sw)
