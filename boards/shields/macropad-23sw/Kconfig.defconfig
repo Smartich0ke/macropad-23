@@ -1,6 +1,3 @@
 if MACROPAD_23SW
-
 config ZMK_KEYBOARD_NAME
-    default "Macropad 23SW"
-
 endif
